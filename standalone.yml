@@ -2,7 +2,7 @@
   become: yes
   gather_facts: yes
   vars:
-    golang_version: 1.23
+    golang_version: 1.21
 
   roles:
     - user.isucon
