@@ -13,6 +13,10 @@
     - nginx
     - mysql
     - golang
+    - perl
+    - php
+    - ruby
+    - python
     - nodejs
     - webapp.mysql
     - webapp.golang
